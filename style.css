@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+
+body{
+    
+    background-image: url(imagens/computador-ligado-noite-dia1.jpg);
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+p{
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+}
+a{
+    color: #ffffff;
+}
